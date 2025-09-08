@@ -1,0 +1,5 @@
+06_langchain_caching.ipynb
+*.csv
+*.json
+.env
+*.pyc
