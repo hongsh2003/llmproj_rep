@@ -3,3 +3,6 @@
 *.json
 .env
 *.pyc
+*.bin
+*.docx
+chroma/chroma.sqlite3
